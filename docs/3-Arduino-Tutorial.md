@@ -1,7 +1,4 @@
 
-
-
-
 # Arduino Tutorial
 
 ## Download Arduino code and library files

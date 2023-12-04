@@ -1,38 +1,10 @@
-# About keyestudio
 
-Keyestudio is the best-selling brand of KEYES Corporation. Our products include Arduino development boards, expansion boards, sensors and modules, Raspberry PI, micro:bit expansion boards as well as smart cars, which are committed to learning about Arduino for customers of any level. 
 
-Notably, all of our products are in line with international quality standards and are greatly appreciated in different markets across the world. 
+# **Keyestudio ESP32 Learning Kit Basic Edition**
 
-Welcome to check out more contents from our official website: [**http://www.keyestudio.com**](http://www.keyestudio.com)
+![](./media/99f9f3a8af76c7a1570bab1f710ca50a.jpeg)
 
-## Obtain Information and After-sales Service
-
-1.Download address: [https://fs.keyestudio.com/KS5012](https://fs.keyestudio.com/KS5011)
-
-2.If something is found missing or broken, or you have some difficulty learning the kit, please feel free to contact us. Welcome to send email to us: service@keyestudio.com
-
-3.We will seek to update projects and products continuously from your sincere advice.
-
-## Warning
-
-1.Some of the electronic components，sensors as well as modules in this product contain tiny pins, please keep them out of reach of children under 7 years old.
-
-2.This product contains conductive parts (control board and electronic module). Please operate according to the requirements of tutorials. Improper operation may cause parts to overheat damage. Do not touch and immediately disconnect the circuit power.
-
-## Copyright
-
-The keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. 
-
-All products under Keyestudio brand can’t be copied, sold and resold without authorization by anyone or company. 
-
-If you are interested in our products, please contact to our sales representatives: [**fennie@keyestudio.com**](http://m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=fennie@keyestudio.com;;clearCache=)
-
-## **Keyestudio ESP32 Learning Kit Basic Edition**
-
-![99f9f3a8af76c7a1570bab1f710ca50a](./media/99f9f3a8af76c7a1570bab1f710ca50a.jpeg)
-
-### 1.Description
+## 1.Description
 
 Do you want to learn about programming?
 
@@ -44,7 +16,7 @@ You can create numerous fascinating DIY experiments with one controller (ESP32),
 
 
 
-### 2.Kit
+## 2.Kit
 
 | ![image-20230419111805758](media/image-20230419111805758.png) | ![image-20230419111813410](media/image-20230419111813410.png) | ![image-20230419111818272](media/image-20230419111818272.png) | ![image-20230419111827441](media/image-20230419111827441.png) | ![image-20230419111833121](media/image-20230419111833121.png) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -66,112 +38,86 @@ You can create numerous fascinating DIY experiments with one controller (ESP32),
 
 
 
-### 3.Catalog
+## 3.Keyestudio ESP32 Core board
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td>Project 01:</td>
-<td>Hello World</td>
-</tr>
-<tr class="even">
-<td>Project 02:</td>
-<td>Turn On LED</td>
-</tr>
-<tr class="odd">
-<td>Project 03:</td>
-<td>LED Flashing</td>
-</tr>
-<tr class="even">
-<td>Project 04:</td>
-<td>Breathing Led</td>
-</tr>
-<tr class="odd">
-<td>Project 05:</td>
-<td>Traffic Lights</td>
-</tr>
-<tr class="even">
-<td>Project 06:</td>
-<td>RGB LED</td>
-</tr>
-<tr class="odd">
-<td>Project 07:</td>
-<td>Flowing Water Light</td>
-</tr>
-<tr class="even">
-<td>Project 08:</td>
-<td>1-Digit Digital Tube</td>
-</tr>
-<tr class="odd">
-<td>Project 09:</td>
-<td>4-Digit Digital Tube</td>
-</tr>
-<tr class="even">
-<td>Project 10:</td>
-<td>8×8 Dot-matrix Display</td>
-</tr>
-<tr class="odd">
-<td>Project 11:</td>
-<td>74HC595N Control 8 LEDs</td>
-</tr>
-<tr class="even">
-<td>Project 12:</td>
-<td>Active Buzzer</td>
-</tr>
-<tr class="odd">
-<td>Project 13:</td>
-<td>Passive Buzzer</td>
-</tr>
-<tr class="even">
-<td>Project 14:</td>
-<td>Mini Table Lamp</td>
-</tr>
-<tr class="odd">
-<td>Project 15:</td>
-<td>Tilt And LED</td>
-</tr>
-<tr class="even">
-<td>Project 16:</td>
-<td>I2C 128×32 LCD</td>
-</tr>
-<tr class="odd">
-<td>Project 17:</td>
-<td>Small Fan</td>
-</tr>
-<tr class="even">
-<td>Project 18:</td>
-<td>Dimming Light</td>
-</tr>
-<tr class="odd">
-<td>Project 19:</td>
-<td>Flame Alarm</td>
-</tr>
-<tr class="even">
-<td>Project 20:</td>
-<td>Night Lamp</td>
-</tr>
-<tr class="odd">
-<td>Project 21:</td>
-<td>Temperature Instrument</td>
-</tr>
-<tr class="even">
-<td>Project 22:</td>
-<td>Bluetooth (The Python tutorial does not have Bluetooth functionality)</td>
-</tr>
-<tr class="odd">
-<td>Project 23:</td>
-<td>WiFi Station Mode</td>
-</tr>
-<tr class="even">
-<td>Project 24:</td>
-<td>WiFi AP Mode</td>
-</tr>
-<tr class="odd">
-<td>Project 25:</td>
-<td>WiFi Station+AP Mode</td>
-</tr>
-</tbody>
-</table>
+![](./media/d59fe9d9aced2ab49f5b9c6e59d9afde-1699410391850-1.jpeg)
+
+**Introduction**
+
+Keyestudio ESP32 Core board is a Mini development board based on the ESP-WROOM-32 module. The board has brought out most I/O ports to pin headers of 2.54mm pitch. These provide an easy way of connecting peripherals according to your own needs.
+
+When it comes to developing and debugging with the development board, the both side standard pin headers can make your operation more simple and handy.
+
+The ESP-WROOM-32 module is the industry's leading integrated WiFi + Bluetooth solution with less than 10 external components. It integrates antenna switches, RF balun, power amplifiers, low noise amplifiers, filters as well as power management modules. At the same time, it also integrates TSMC's low-power 40nm technology, power performance and RFperformance, making it safe, reliable and easy to expand to a variety of applications.  
+
+ Specifications
+
+- Microcontroller: ESP-WROOM-32 Module
+
+- USB to serial port chip: CP2102-GMR
+
+- Working voltage: DC 5V
+
+- Working current：80mA（Average）
+
+- Current supply：500mA（Minimum）
+
+- Working temperature range : -40°C \~ +85°C
+
+- WiFi mode：Station/SoftAP/SoftAP+Station/P2P
+
+- WiFi protocol：802.11b/g/n/e/i（802.11n，speed up to 150 Mbps
+
+- WiFi frequency range：2.4 GHz \~ 2.5 GHz
+
+- Bluetooth protocol：conform to Bluetooth v4.2 BR/EDR and BLE Standard
+- Dimensions：55\*26\*13mm
+
+- Weight：9.3g
+
+**Pin out**
+
+![](./media/faad4453ca14a342def16fdc3d46ef79-1699415854186-567.png)
+
+ESP32 has fewer pins than commonly used processors, but it doesn't have any problems reusing multiple functions on pins.  
+
+**Warning**: The pin voltage level of the ESP32 is 3.3V.  If you want to connect the ESP32 to another device with an operating voltage of 5V, you should use a level converter to convert the voltage level.  
+
+**●Power Pins:** The module has two power pins +5V and 3.3V.  You can use these two pins to power other devices and modules. 
+
+![](./media/2a90758b3a2e998d7af545fdbb432f08-1699415856634-569.png)
+
+**● GND Pins**: The module has three grounded pins.
+
+**● Enable pin (EN) :** This pin is used to enable and disable modules. The pin enables module at high level and disables module at low level.  
+
+**● Input/Output pins (GPIO) :** You can use 32 GPIO pins to communicate with LEDs, switches and other input/output devices. You can also pull these pins up or down internally.  
+
+**● Note:** Though GPIO6 to GPIO11 pins (SCK/CLK, SDO/SD0, SDI/SD1, SHD/SD2, SWP/SD3 and SCS/CMD pins) are used for SPI communication for the internal module, which are not recommended.  
+
+**● ADC:** You can use the 16 ADC pins on this module to convert analog voltages (the output of some sensors) into digital voltages. Some of these converters are connected to internal amplifiers and which are capable of measuring small voltages with high accuracy.
+
+**● DAC:** ESP32 module has two A/D converters with 8-bit precision.
+
+**● Touch pad:** There are 10 pins on the ESP32 module that are sensitive to capacitance changes.  You can attach these pins to certain PCB’s pads and use them as touch switches. 
+
+**● SPI:** There are two SPI interfaces on the module, which can be used to connect the display screen, SD/microSD memory card module as well as external flash memory, etc.
+
+**● I2C:** SDA and SCL pins are used for I2C communication.  
+
+**● Serial Communication (UART) :** There are two UART serial interfaces on this module, which can be used to transfer up to 5Mbps of information between two devices .  The UART0 also has CTS and RTS control functions. 
+
+**●PWM:** Almost all ESP32 input/output pins can be used for PWM(pulse-width modulation). Using these pins can control the motors, LED lights and color changes for some other sensors（for example: color sensor）, etc.
+
+
+
+**Components**
+
+![](./media/4e99a4f953b9ede17b5c135232ddb476-1699415860901-571.png)
+
+
+
+
 
 
 

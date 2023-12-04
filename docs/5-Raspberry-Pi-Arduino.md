@@ -1,6 +1,6 @@
 
 
-# Raspberry Pi Project Tutorial
+# C language (Raspberry Pi) Tutorial
 
  Development Environment Configuration
 

@@ -1,4 +1,4 @@
-# Raspberry Pi
+# Getting started with C language(Raspberry Pi)
 
 Raspberry Pi is a card computer whose official system is Raspberry Pi OS, which can be installed on other systems,, such as: ubuntu, Windows IoT. Raspberry Pi can be used as a personal server, a router camera monitoring and recognition, as well as voice interaction by connecting a camera and a voice interactive assistant.
 

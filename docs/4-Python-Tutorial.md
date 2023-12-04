@@ -1,5 +1,5 @@
 
-# Project Tutorial
+# Python Tutorial
 
 ## Download Python code files
 
