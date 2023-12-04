@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
+project = 'ESP32 Learning Kit'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 

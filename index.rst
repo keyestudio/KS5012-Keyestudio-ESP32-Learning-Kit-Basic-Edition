@@ -1,12 +1,10 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: keyestudio docs
+   :caption: Keyestudio ESP32 Learning Kit Basic Edition
 
    README.md
    docs/1-Product Introduction.md
-   docs/2-Keyestudio ESP32 Mainboard.md
-   docs/3-1Arduino-MacOS.md
    docs/3-2Arduino-Windows.md
    docs/3-Arduino-Tutorial.md
    docs/4-1Python.md
