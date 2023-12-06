@@ -17,18 +17,11 @@ For ESP32 beginners, we will start with some simple things. In this project, you
 
 2. Components
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:1.56875in;height:0.76528in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/3bdcc62cfa661d2b860a76e28537e21e.png" style="width:1.41667in;height:0.76042in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419113302104](./media/image-20230419113302104-1699410520129-3.png) | ![image-20230419113257356](./media/image-20230419113257356-1699410520129-5.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | USB Cable*1                                                  |
+
+
 3. Wiring Diagram：
 
 In this project, we will use a USB cable to connect the ESP32 to Raspberry Pi.
@@ -92,34 +85,12 @@ In this project, we will show you how to light up the LED. We use the ESP32's di
 
 2. Components
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7eb361d680dfa351f07f8527aeb37abd.png" style="width:0.275in;height:1.17361in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.66736in;height:0.64097in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>Red LED*1</td>
-<td>220Ω Resistor*1</td>
-<td>Jumper Wire*2</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419113920316](./media/image-20230419113920316-1699410520130-17.png) | ![image-20230419113931132](./media/image-20230419113931132-1699410520130-18.png) | ![image-20230419113938700](./media/image-20230419113938700-1699410520130-19.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | USB Cable*1                                                  |
+| ![image-20230419113944445](./media/image-20230419113944445-1699410520130-20.png) | ![image-20230419113948860](./media/image-20230419113948860-1699410520130-21.png) | ![image-20230419113956653](./media/image-20230419113956653-1699410520130-22.png) |
+| Red LED*1                                                    | 220Ω Resistor*1                                              | Jumper Wire*2                                                |
+
 3. Component Knowledge
 
 **（1）LED:**
@@ -285,34 +256,11 @@ In this project, we will show you the LED flashing effect. We use the ESP32's di
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7eb361d680dfa351f07f8527aeb37abd.png" style="width:0.275in;height:1.17361in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.66736in;height:0.64097in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>Red LED*1</td>
-<td>220Ω Resistor*1</td>
-<td>Jumper Wire*2</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419114509784](./media/image-20230419114509784-1699410520130-43.png) | ![image-20230419114525199](./media/image-20230419114525199-1699410520130-44.png) | ![image-20230419114533184](./media/image-20230419114533184-1699410520130-45.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | USB Cable*1                                                  |
+| ![image-20230419114544672](./media/image-20230419114544672-1699410520130-46.png) | ![image-20230419114549632](./media/image-20230419114549632-1699410520130-47.png) | ![image-20230419114554753](./media/image-20230419114554753-1699410520130-48.png) |
+| Red LED*1                                                    | 220Ω Resistor*1                                              | Jumper Wire*2                                                |
 
 3.Wiring diagram：
 
@@ -415,34 +363,11 @@ Breathing light, that is, LED is turned from off to on gradually, and gradually 
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7eb361d680dfa351f07f8527aeb37abd.png" style="width:0.275in;height:1.17361in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.66736in;height:0.64097in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>Red LED*1</td>
-<td>220Ω Resistor*1</td>
-<td>Jumper Wire*2</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419114808964](./media/image-20230419114808964-1699410520130-53.png) | ![image-20230419114813904](./media/image-20230419114813904-1699410520130-54.png) | ![image-20230419114819074](./media/image-20230419114819074-1699410520130-55.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | USB Cable*1                                                  |
+| ![image-20230419114839817](./media/image-20230419114839817-1699410520130-56.png) | ![image-20230419114844385](./media/image-20230419114844385-1699410520130-57.png) | ![image-20230419114848961](./media/image-20230419114848961-1699410520130-58.png) |
+| Red LED*1                                                    | 220Ω Resistor*1                                              | Jumper Wire*2                                                |
 
 3.Component knowledge：
 
@@ -547,38 +472,11 @@ Traffic lights are closely related to people's daily life, which generally show 
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56c8489f249af8dcd03115ab6eb70ec9.jpeg" style="width:1.24444in;height:0.60764in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/b57b4057770f0bcc43f037c0ab8e1c41.png" style="width:0.84375in;height:2.23125in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/afa6edd3ff90b027a6f43995a6fb15a2.png" style="width:0.28333in;height:1.20972in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/0c1b0f91b4e56bcbc235d06b48809ac9.png" style="width:0.27986in;height:1.22222in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>Red LED*1</td>
-<td>Yellow LED*1</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/6c688493b558ed5f3e90e7dab38cbd93.png" style="width:0.26736in;height:1.16389in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.66736in;height:0.64097in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Green LED*1</td>
-<td>USB Cable*1</td>
-<td>220Ω Resistor*3</td>
-<td>Jumper Wires</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419115559277](./media/image-20230419115559277-1699410520131-66.png) | ![image-20230419115730534](./media/image-20230419115730534-1699410520131-68.png) | ![image-20230419115613094](./media/image-20230419115613094-1699410520131-69.png) | ![image-20230419115617861](./media/image-20230419115617861-1699410520131-70.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Red LED*1                                                    | USB Cable*1                                                  | Jumper Wires                                                 |
+| ![image-20230419115750918](./media/image-20230419115750918-1699410520131-71.png) | ![image-20230419115747398](./media/image-20230419115747398-1699410520131-72.png) | ![image-20230419115657718](./media/image-20230419115657718-1699410520131-73.png) | ![image-20230419115703141](./media/image-20230419115703141-1699410520131-74.png) |
+| Bread board*1                                                | Yellow LED*1                                                 | Green LED*1                                                  | 220Ω Resistor*3                                              |
 
 ![](./media/a991f5cc6f8759eca3b9d01f95fe4854-1699344906398-23-1699415928617-623.png)
 
@@ -662,34 +560,11 @@ In this project, we will introduce the RGB and show you how to use ESP32 to cont
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/f1a86fc81ab4b043263ce7e01e14d470.png" style="width:0.23056in;height:1.27847in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.66736in;height:0.64097in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>RGB LED*1</td>
-<td>220Ω Resistor*3</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419120042064](./media/image-20230419120042064-1699410520131-80.png) | ![image-20230419120101640](./media/image-20230419120101640-1699410520131-82.png) | ![image-20230419120112681](./media/image-20230419120112681-1699410520131-81.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | RGB LED                                                      | Jumper Wires                                                 |
+| ![image-20230419120046072](./media/image-20230419120046072-1699410520131-83.png) | ![image-20230419120105720](./media/image-20230419120105720-1699410520131-84.png) | ![image-20230419120116407](./media/image-20230419120116407-1699410520131-85.png) |
+| Breadboard*1                                                 | 220Ω Resistor*3                                              | USB Cable*1                                                  |
 
 3.Component knowledge：
 
@@ -779,34 +654,11 @@ In our daily life, we can see many billboards composed of different colors of LE
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7eb361d680dfa351f07f8527aeb37abd.png" style="width:0.275in;height:1.17361in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.66736in;height:0.64097in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>Red LED*1</td>
-<td>220Ω Resistor*1</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419113920316](./media/image-20230419113920316-1699410520130-17.png) | ![image-20230419113931132](./media/image-20230419113931132-1699410520130-18.png) | ![image-20230419113938700](./media/image-20230419113938700-1699410520130-19.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | USB Cable*1                                                  |
+| ![image-20230419113944445](./media/image-20230419113944445-1699410520130-20.png) | ![image-20230419113948860](./media/image-20230419113948860-1699410520130-21.png) | ![image-20230419113956653](./media/image-20230419113956653-1699410520130-22.png) |
+| Red LED*1                                                    | 220Ω Resistor*1                                              | Jumper Wire*2                                                |
 
 3.Wiring diagram :
 
@@ -883,34 +735,11 @@ A 1-Digit 7-Segment Display is an electronic display device that displays decima
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/f52aeaa1de53c2e89338b2f42da4b029.png" style="width:0.52847in;height:0.58958in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.66736in;height:0.64097in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>1-Digit 7-Segment Display*1</td>
-<td>220Ω Resistor*8</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419113920316](./media/image-20230419113920316-1699410520130-17.png) | ![image-20230419113931132](./media/image-20230419113931132-1699410520130-18.png) | ![image-20230419113938700](./media/image-20230419113938700-1699410520130-19.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | USB Cable*1                                                  |
+| ![image-20230419120516345](./media/image-20230419120516345-1699410520131-90.png) | ![image-20230419113948860](./media/image-20230419113948860-1699410520130-21.png) | ![image-20230419113956653](./media/image-20230419113956653-1699410520130-22.png) |
+| 1-Digit 7-Segment Display*1                                  | 220Ω Resistor*8                                              | Jumper Wire*2                                                |
 
 3.Component knowledge：
 
@@ -991,34 +820,11 @@ The 4-digit 7-segment display is a very practical display device and it is used 
 
 2.Components
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/ee7a4ecd35ef268149e31fb9d62c8227.png" style="width:0.94792in;height:0.71736in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:0.90694in;height:0.90069in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>4-digit 7-segment display Module*1</td>
-<td>220Ω Resistor*8</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419113920316](./media/image-20230419113920316-1699410520130-17.png) | ![image-20230419113931132](./media/image-20230419113931132-1699410520130-18.png) | ![image-20230419113938700](./media/image-20230419113938700-1699410520130-19.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | USB Cable*1                                                  |
+| ![image-20230419120931233](./media/image-20230419120931233-1699410520131-96.png) | ![image-20230419113948860](./media/image-20230419113948860-1699410520130-21.png) | ![image-20230419113956653](./media/image-20230419113956653-1699410520130-22.png) |
+| 4-digit 7-segment display Module*1                           | 220Ω Resistor*8                                              | Jumper Wire*2                                                |
 
 3.Component Knowledge
 
@@ -1157,34 +963,11 @@ Dot matrix display is an electronic digital display device that can display info
 
 2.Components
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.95208in;height:2.33472in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/d226a1f3c801ac78321f0692143c853e.png" style="width:1.09375in;height:1.05208in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:0.90833in;height:0.23681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:1.03333in;height:1.02708in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>8*8 dot matrix module*1</td>
-<td>220Ω Resistor*8</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419113920316](./media/image-20230419113920316-1699410520130-17.png) | ![image-20230419113931132](./media/image-20230419113931132-1699410520130-18.png) | ![image-20230419113938700](./media/image-20230419113938700-1699410520130-19.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | USB Cable*1                                                  |
+| ![image-20230419131331105](./media/image-20230419131331105-1699410520131-101.png) | ![image-20230419113948860](./media/image-20230419113948860-1699410520130-21.png) | ![image-20230419113956653](./media/image-20230419113956653-1699410520130-22.png) |
+| 8*8 dot matrix module *1                                     | 220Ω Resistor*8                                              | Jumper Wire*2                                                |
 
 3.Component Knowledge
 
@@ -1307,34 +1090,11 @@ With only 32 IO ports on ESP32, how do we light up a lot of leds? Sometimes it i
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/2a55dec25d757def2b46d5e9cd9c97e5.jpeg" style="width:1.75972in;height:0.85833in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.63889in;height:1.56667in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/f97e58ab51ec0a274ff3e72e08a7d55d.png" style="width:1.07847in;height:0.88611in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.98958in;height:0.95139in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>74HC595N chip*1</td>
-<td>Jumper Wires</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:1.22639in;height:0.49236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/3ec5906fad2172708d449390140f55e6.png" style="width:0.28056in;height:1.19722in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>220ΩResistor*8</td>
-<td>Red LED*8</td>
-<td>USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419131744702](./media/image-20230419131744702-1699410520131-106.png) | ![image-20230419131810814](./media/image-20230419131810810-1699410520131-105.png) | ![image-20230419131845188](./media/image-20230419131845188-1699410520131-107.png) | ![image-20230419131849890](./media/image-20230419131849890-1699410520131-108.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | 74HC595N chip*1                                              | Jumper Wires                                                 |
+| ![image-20230419131854339](./media/image-20230419131854339-1699410520131-109.png) | ![image-20230419131858085](./media/image-20230419131858085-1699410520132-110.png) | ![image-20230419131902483](./media/image-20230419131902483-1699410520132-111.png) |                                                              |
+| 220Ω Resistor*8                                              | Red LED*8                                                    | USB Cable*1                                                  |                                                              |
 
 3.Component knowledge：
 
@@ -1447,34 +1207,11 @@ Active buzzer is a sound component that is widely used as a sound component for 
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/b8f46441af8a96464075d155e6ff7610.jpeg" style="width:1.29375in;height:0.63125in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.59306in;height:1.45486in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/4b4f653a76a82a3b413855493cc58fba.png" style="width:0.86111in;height:0.70069in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>Active buzzer*1</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9197d4aff9356c585b7ef68e33a6881d.png" style="width:0.27986in;height:1.08819in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:0.90833in;height:0.23681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/c801a7baee258ff7f5f28ac6e9a7097b.png" style="width:0.80833in;height:0.77778in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>NPN transistor(S8050)*1</td>
-<td>1kΩ Resistor*1</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419132255353](./media/image-20230419132255353-1699410520132-116.png) | ![image-20230419132259970](./media/image-20230419132259970-1699410520132-117.png) | ![image-20230419132305090](./media/image-20230419132305090-1699410520132-118.png) |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | Active buzzer*1                                              |                                                              |
+| ![image-20230419132310514](./media/image-20230419132310514-1699410520132-119.png) | ![image-20230419132315699](./media/image-20230419132315699-1699410520132-120.png) | ![image-20230419132319716](./media/image-20230419132319716-1699410520132-121.png) | ![image-20230419132323987](./media/image-20230419132323987-1699410520132-122.png) |
+| NPN Transistor(S8050)*1                                      | 1kΩ Resistor*1                                               | Jumper Wires                                                 | USB Cable*1                                                  |
 
 3.Component knowledge：
 
@@ -1554,38 +1291,11 @@ In a previous project, we studied an active buzzer, which can only make a sound 
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/b8f46441af8a96464075d155e6ff7610.jpeg" style="width:1.29375in;height:0.63125in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.59306in;height:1.45486in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/d1ea1bb2b2749820cab389d5b85b838b.png" style="width:0.51806in;height:0.62222in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td><p>Passive</p>
-<p>Buzzer *1</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9197d4aff9356c585b7ef68e33a6881d.png" style="width:0.27986in;height:1.08819in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:0.90833in;height:0.23681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/aa06e883415a425c727a539a8267ac7a.png" style="width:0.57431in;height:0.55278in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>NPN transistor(S8050)*1</td>
-<td><p>1kΩ</p>
-<p>Resistor*1</p></td>
-<td><blockquote>
-<p>Jumper Wires</p>
-</blockquote></td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419132556924](./media/image-20230419132556924-1699410520132-128.png) | ![image-20230419132601045](./media/image-20230419132601045-1699410520132-130.png) | ![image-20230419132607348](./media/image-20230419132607348-1699410520132-132.png) |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | Passive Buzzer *1                                            |                                                              |
+| ![image-20230419132611589](./media/image-20230419132611589-1699410520132-131.png) | ![image-20230419132620414](./media/image-20230419132620414-1699410520132-133.png) | ![image-20230419132634100](./media/image-20230419132634100-1699410520132-134.png) | ![image-20230419132638101](./media/image-20230419132638101-1699410520132-136.png) |
+| NPN Transistor(S8050)*1                                      | 1kΩResistor*1                                                | Jumper Wires                                                 | USB Cable*1                                                  |
 
 3.Component knowledge：
 
@@ -1652,38 +1362,11 @@ Do you know that the ESP32 can light up an LED when you press a button? In this 
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/cfb6e37e644d69ddde6ac4e6cb1112f5.jpeg" style="width:1.46736in;height:0.71667in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.61597in;height:1.51111in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/5b8fea4657b47510d199f740fdcaaa9d.png" style="width:1.06736in;height:0.74236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/da8a2a9d15baf7280966f3fdbb025a8c.png" style="width:0.26042in;height:1.16667in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>Button*1</td>
-<td>10KΩ Resistor*1</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/ef77f5a64c382157fc2dea21ec373fef.png" style="width:0.29514in;height:1.25903in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/845d05a6108b1662b828610ba9dcb788.png" style="width:0.25833in;height:1.13681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:0.8375in;height:0.83194in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9cab81f7da18c7b0c245ec2a2f614f3a.png" style="width:0.84514in;height:0.83264in" /></td>
-</tr>
-<tr class="even">
-<td>Red LED*1</td>
-<td>220Ω Resistor*1</td>
-<td>USB Cable*1</td>
-<td>Jumper Wires</td>
-<td>Button Cap*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419132918905](./media/image-20230419132918905-1699410520132-139.png) | ![image-20230419132925302](./media/image-20230419132925302-1699410520132-140.png) | ![image-20230419132929398](./media/image-20230419132929398-1699410520132-141.png) | ![image-20230419132935910](./media/image-20230419132935910-1699410520132-142.png) |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | Button*1                                                     | Button Cap*1                                                 |                                                              |
+| ![image-20230419132950999](./media/image-20230419132950999-1699410520132-143.png) | ![image-20230419132959610](./media/image-20230419132959610-1699410520132-144.png) | ![image-20230419133003557](./media/image-20230419133003557-1699410520132-146.png) | ![image-20230419133008664](./media/image-20230419133008664-1699410520132-145.png) | ![image-20230419133012534](./media/image-20230419133012534-1699410520132-147.png) |
+| 10KΩ Resistor*1                                              | Red LED*1                                                    | 22Ω Resistor*1                                               | USB Cable*1                                                  | Jumper Wires                                                 |
 
 3.Component knowledge：
 
@@ -1795,34 +1478,11 @@ electronic hourglass.
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:1.99236in;height:0.97292in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/36f15610f430e5d5138f4e4fb721c40f.png" style="width:1.27292in;height:0.71667in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/ef77f5a64c382157fc2dea21ec373fef.png" style="width:0.29514in;height:1.25903in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/da8a2a9d15baf7280966f3fdbb025a8c.png" style="width:0.26042in;height:1.16667in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Tilt Switch*1</td>
-<td>Red LED*4</td>
-<td>10Ω Resistor*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.59028in;height:1.44583in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/845d05a6108b1662b828610ba9dcb788.png" style="width:0.25833in;height:1.13681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:0.8375in;height:0.83194in" /></td>
-</tr>
-<tr class="even">
-<td>Breadboard*1</td>
-<td>22Ω Resistor*4</td>
-<td>USB Cable*1</td>
-<td>Jumper Wires</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419133220985](./media/image-20230419133220985-1699410520132-155.png) | ![image-20230419133230072](./media/image-20230419133230072-1699410520133-156.png) | ![image-20230419133233864](./media/image-20230419133233864-1699410520133-157.png) | ![image-20230419133237783](./media/image-20230419133237783-1699410520133-158.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Tilt Switch*1                                                | Red LED*4                                                    | 10KΩ Resistor*1                                              |
+| ![image-20230419133225671](./media/image-20230419133225671-1699410520133-159.png) | ![image-20230419133241559](./media/image-20230419133241559-1699410520133-160.png) | ![image-20230419133245704](./media/image-20230419133245704-1699410520133-161.png) | ![image-20230419133249991](./media/image-20230419133249991-1699410520133-162.png) |
+| Breadboard*1                                                 | 220Ω Resistor*4                                              | USB Cable*1                                                  | Jumper Wires                                                 |
 
 3.Component knowledge：
 
@@ -1912,30 +1572,11 @@ In everyday life, we can do all kinds of experiments with the display module and
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:2.17847in;height:1.0625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.94722in;height:2.32014in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/2c2645e94a00867ac23e8a022f0a631a.png" style="width:1.59236in;height:0.76736in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/ece3c38dc9a9e6428b122481d6bb0d4d.png" style="width:1.19028in;height:1.00556in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>LCD_128X32_DOT*1</td>
-<td>M-F Dupont Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419133618407](./media/image-20230419133618407-1699410520133-166.png) | ![image-20230419133622409](./media/image-20230419133622409-1699410520133-167.png) |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 |                                                              |
+| ![image-20230419133626873](./media/image-20230419133626873-1699410520133-168.png) | ![image-20230419133630921](./media/image-20230419133630921-1699410520133-169.png) | ![image-20230419133634617](./media/image-20230419133634617-1699410520133-170.png) |
+| LCD_128X32_DOT*1                                             | M-F Dupont Wires                                             | USB Cable*1                                                  |
 
 3.Component knowledge：
 
@@ -2039,52 +1680,14 @@ In hot summer, we need electric fans to cool us down, so in this project, we wil
 
 2.Components
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/2baa8832e763a08fb4623b405d6481ba.jpeg" style="width:1.39514in;height:0.68056in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/5eba8bae9e1d18b959ca425a9cc83fd2.jpeg" style="width:1.07569in;height:0.43472in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/4e0b78edf6e4aeefa4c5191c606b2031.png" style="width:0.42847in;height:1.04931in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/655e6c465cb423279e0908513a983711.png" style="width:0.85694in;height:0.75347in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9197d4aff9356c585b7ef68e33a6881d.png" style="width:0.27986in;height:1.08819in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>DC Motor*1</td>
-<td>Breadboard*1</td>
-<td>Fan*1</td>
-<td>NPN Transistor (S8050)*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9197d4aff9356c585b7ef68e33a6881d.png" style="width:0.27986in;height:1.08819in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:0.90833in;height:0.23681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/df3db6765ee8c86beafa8410e87dd50d.png" style="width:0.77361in;height:0.76944in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/6138a67aa472890c8e0e74bf96fabd01.png" style="width:1.03611in;height:0.24236in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-</tr>
-<tr class="even">
-<td>PNP Transistor (S8550)*1</td>
-<td>1KΩ Resistor*1</td>
-<td>Jumper Wire</td>
-<td>Diode*1</td>
-<td>USB Cable*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/6d0d02f79c5511a1225e0940220482e8.jpeg" style="width:1.36667in;height:0.98681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/412d874475de346d56b39cfb041ffc4c.png" style="width:1.19028in;height:0.51389in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/a815c48437199c6ab79d74cd2d583de0.png" style="width:0.24583in;height:1.13264in" /></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6 AA Battery Holder*1</td>
-<td>Keyestudio Breadboard Power Module*1</td>
-<td>AA Battery(Self-prepared)*6</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419134013087](./media/image-20230419134013087-1699410520133-176.png) | ![image-20230419134022892](./media/image-20230419134022892-1699410520133-177.png) | ![image-20230419134032653](./media/image-20230419134032653-1699410520133-178.png) | ![image-20230419134042060](./media/image-20230419134042060-1699410520133-179.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | 6 AA Battery Holder*1                                        | Breadboard Power Module*1                                    |
+| ![image-20230419134054251](./media/image-20230419134054251-1699410520133-180.png) | ![image-20230419134106220](./media/image-20230419134106220-1699410520133-181.png) | ![image-20230419134117740](./media/image-20230419134117740-1699410520133-182.png) | ![image-20230419134127916](./media/image-20230419134127916-1699410520133-183.png) |
+| AA Battery(Self-prepared)*6                                  | Fan*1                                                        | DC Motor*1                                                   | NPN Transistor (S8050)*1                                     |
+| ![image-20230419134140268](./media/image-20230419134140268-1699410520133-184.png) | ![image-20230419134158253](./media/image-20230419134158253-1699410520133-185.png) | ![image-20230419134202172](./media/image-20230419134202172-1699410520133-186.png) | ![image-20230419134208365](./media/image-20230419134208365-1699410520133-187.png) |
+| PNP Transistor (S8550)*1                                     | 1KΩ Resistor*1                                               | Jumper Wire                                                  | Diode*1                                                      |
+| ![image-20230419134235805](./media/image-20230419134235805-1699410520133-188.png)USB Cable*1 |                                                              |                                                              |                                                              |
 
 **Keyestudio Breadboard Power Supply Module：**
 
@@ -2202,34 +1805,11 @@ In this project, we will learn how to use ESP32 to read the values of the potent
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:1.74861in;height:0.85347in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.70417in;height:1.72708in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/03ab81e8b4f09287d2781ef0fd297f85.png" style="width:0.70556in;height:1.08125in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/ef77f5a64c382157fc2dea21ec373fef.png" style="width:0.29514in;height:1.25903in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>Potentiometer*1</td>
-<td>Red LED*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/845d05a6108b1662b828610ba9dcb788.png" style="width:0.25833in;height:1.13681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:0.77222in;height:0.77986in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>220Ω Resistor*1</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419134703315](./media/image-20230419134703315-1699410520133-192.png) | ![image-20230419134708703](./media/image-20230419134708703-1699410520133-193.png) | ![image-20230419134712929](./media/image-20230419134712929-1699410520133-194.png) | ![image-20230419134717359](./media/image-20230419134717359-1699410520133-195.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | Potentiometer*1                                              | Red LED*1                                                    |
+| ![image-20230419134728687](./media/image-20230419134728687-1699410520133-196.png) | ![image-20230419134733072](./media/image-20230419134733072-1699410520133-197.png) | ![image-20230419134736831](./media/image-20230419134736831-1699410520133-198.png) |                                                              |
+| 220ΩResistor*1                                               | Jumper Wires                                                 | USB Cable*1                                                  |                                                              |
 
 3.Component knowledge：
 
@@ -2461,46 +2041,13 @@ Fire is a terrible disaster and fire alarm systems are very useful in houses、c
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/df7fdb857f6490486514896b60cabe10.jpeg" style="width:1.39722in;height:0.68264in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.55208in;height:1.35417in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/ef77f5a64c382157fc2dea21ec373fef.png" style="width:0.29514in;height:1.25903in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/4b4f653a76a82a3b413855493cc58fba.png" style="width:0.86111in;height:0.70069in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>Red LED*1</td>
-<td>Active Buzzer*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/a50ec3e38adf10643eafac8cb62bec8a.png" style="width:0.20278in;height:1.25764in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/845d05a6108b1662b828610ba9dcb788.png" style="width:0.25833in;height:1.13681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/b395b1cd2678f87b3a34dec15659efbc.png" style="width:0.22431in;height:1.00556in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:0.77222in;height:0.77986in" /></td>
-</tr>
-<tr class="even">
-<td>Flame Sensor*1</td>
-<td>220Ω Resistor*1</td>
-<td>10KΩ Resistor*1</td>
-<td>Jumper Wires</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9197d4aff9356c585b7ef68e33a6881d.png" style="width:0.27986in;height:1.08819in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/098a2730d0b0a2a4b2079e0fc87fd38b.png" style="width:0.90833in;height:0.23681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:1.05903in;height:0.56667in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>NPN transistor(S8050)*1</td>
-<td>1kΩ Resistor*1</td>
-<td>USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419135258198](./media/image-20230419135258198-1699410520134-205.png) | ![image-20230419135303569](./media/image-20230419135303569-1699410520134-206.png) | ![image-20230419135309298](./media/image-20230419135309298-1699410520134-207.png) | ![image-20230419135313010](./media/image-20230419135313010-1699410520134-208.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | Red LED*1                                                    | Active Buzzer*1                                              |
+| ![image-20230419135317410](./media/image-20230419135317410-1699410520134-209.png) | ![image-20230419135321730](./media/image-20230419135321730-1699410520134-210.png) | ![image-20230419135325170](./media/image-20230419135325170-1699410520134-211.png) | ![image-20230419135328822](./media/image-20230419135328822-1699410520134-212.png) |
+| Flame Sensor*1                                               | 220Ω Resistor*1                                              | 10KΩResistor*1                                               | Jumper Wires                                                 |
+| ![image-20230419135344324](./media/image-20230419135344324-1699410520134-213.png) | ![image-20230419135348724](./media/image-20230419135348724-1699410520134-214.png) | ![image-20230419135352517](./media/image-20230419135352517-1699410520134-215.png) |                                                              |
+| NPN Transistor(S8050)*1                                      | 1kΩ Resistor*1                                               | USB Cable*1                                                  |                                                              |
 
 3.Component knowledge：
 
@@ -2626,38 +2173,11 @@ Sensors or components are ubiquitous in our daily life. For example, some public
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/d8beaf7391033a5f6ba4600791f8c348.jpeg" style="width:1.38681in;height:0.67708in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.6in;height:1.47083in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/ef77f5a64c382157fc2dea21ec373fef.png" style="width:0.29514in;height:1.25903in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/b395b1cd2678f87b3a34dec15659efbc.png" style="width:0.22431in;height:1.00556in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>Red LED*1</td>
-<td>10KΩResistor*1</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9e553e75b6f976f33438171eb2f2e775.png" style="width:0.19097in;height:1.26597in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/845d05a6108b1662b828610ba9dcb788.png" style="width:0.25833in;height:1.13681in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:0.77222in;height:0.77986in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:0.99028in;height:0.52986in" /></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Photoresistor*1</td>
-<td>220ΩResistor*1</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419135901404](./media/image-20230419135901404-1699410520134-221.png) | ![image-20230419135910193](./media/image-20230419135910193-1699410520134-222.png) | ![image-20230419135916601](./media/image-20230419135916601-1699410520134-223.png) | ![image-20230419135921200](./media/image-20230419135921200-1699410520134-224.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | Red LED*1                                                    | 10KΩResistor*1                                               |
+| ![image-20230419135925686](./media/image-20230419135925686-1699410520134-225.png) | ![image-20230419135929687](./media/image-20230419135929687-1699410520134-226.png) | ![image-20230419135933505](./media/image-20230419135933505-1699410520134-227.png) | ![image-20230419135937014](./media/image-20230419135937014-1699410520134-228.png) |
+| Photoresistor*1                                              | 220ΩResistor*1                                               | Jumper Wires                                                 | USB Cable*1                                                  |
 
 3.Component knowledge：
 
@@ -2775,34 +2295,11 @@ Thermistor is a kind of resistor whose resistance depends on temperature changes
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/56053f7126905c6def63919c661d5c0a.jpeg" style="width:1.59722in;height:0.77986in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e380dd26e4825be9a768973802a55fe6.png" style="width:0.69306in;height:1.7in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/b45bb81bb3763377c63accce606ac5f2.png" style="width:0.25in;height:1.11597in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/b395b1cd2678f87b3a34dec15659efbc.png" style="width:0.22431in;height:1.00556in" /></td>
-</tr>
-<tr class="even">
-<td>ESP32*1</td>
-<td>Breadboard*1</td>
-<td>Thermistor*1</td>
-<td>10KΩResistor*1</td>
-</tr>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/74ca4fa6d49dbd04de6a603c6e55a9ee.png" style="width:1.15347in;height:0.9625in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/9232141f8a3166a8a6cdd43b78edd4e3.png" style="width:1.52014in;height:0.73264in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/e9a8d050105397bb183512fb4ffdd2f6.png" style="width:1.10139in;height:1.03472in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/7dcbd02995be3c142b2f97df7f7c03ce.png" style="width:0.99028in;height:0.52986in" /></td>
-</tr>
-<tr class="even">
-<td>M-F Dupont Wires</td>
-<td>LCD 128X32 DOT*1</td>
-<td>Jumper Wires</td>
-<td>USB Cable*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419143903389](./media/image-20230419143903389-1699410520134-234.png) | ![image-20230419143907305](./media/image-20230419143907305-1699410520134-235.png) | ![image-20230419143911561](./media/image-20230419143911561-1699410520134-236.png) | ![image-20230419143916105](./media/image-20230419143916105-1699410520134-237.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESP32*1                                                      | Breadboard*1                                                 | Thermistor*1                                                 | 10KΩResistor*1                                               |
+| ![image-20230419143919673](./media/image-20230419143919673-1699410520134-238.png) | ![image-20230419143923052](./media/image-20230419143923052-1699410520134-239.png) | ![image-20230419143929402](./media/image-20230419143929402-1699410520134-240.png) | ![image-20230419143933562](./media/image-20230419143933562-1699410520134-241.png) |
+| M-F Dupont Wires                                             | LCD 128X32 DOT*1                                             | Jumper Wires                                                 | USB Cable*1                                                  |
 
 3.Component knowledge：
 
@@ -2978,18 +2475,9 @@ ESP32 has three different WiFi operating modes : Station mode，AP mode and AP+S
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/729232b0c2d2c01984808289b222890c.png" style="width:1.8125in;height:0.86458in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" style="width:2.43681in;height:1.13472in" /></td>
-</tr>
-<tr class="even">
-<td>USB Cable*1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419144237630](./media/image-20230419144237630-1699410520134-249.png) | ![image-20230419144243499](./media/image-20230419144243499-1699410520134-250.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| USB  Cable*1                                                 | ESP22*1                                                      |
 
 3.Project wiring：
 
@@ -3058,18 +2546,9 @@ ESP32 has three different WiFi operating modes : Station mode，AP mode and AP+S
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/729232b0c2d2c01984808289b222890c.png" style="width:1.8125in;height:0.86458in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" style="width:2.43681in;height:1.13472in" /></td>
-</tr>
-<tr class="even">
-<td>USB Cable*1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419144237630](./media/image-20230419144237630-1699410520134-249.png) | ![image-20230419144243499](./media/image-20230419144243499-1699410520134-250.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| USB  Cable*1                                                 | ESP22*1                                                      |
 
 3.Project wiring：
 
@@ -3146,18 +2625,9 @@ ESP32 has three different WiFi operating modes : Station mode，AP mode and AP+S
 
 2.Components：
 
-<table border="1">
-<tbody>
-<tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/729232b0c2d2c01984808289b222890c.png" style="width:1.8125in;height:0.86458in" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5012-Keyestudio-ESP32-Learning-Kit-Basic-Edition-Python/master/media/53f17b0de2d98d4714e8fe9043a346ca.jpeg" style="width:2.43681in;height:1.13472in" /></td>
-</tr>
-<tr class="even">
-<td>USB Cable*1</td>
-<td>ESP32*1</td>
-</tr>
-</tbody>
-</table>
+| ![image-20230419144237630](./media/image-20230419144237630-1699410520134-249.png) | ![image-20230419144243499](./media/image-20230419144243499-1699410520134-250.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| USB  Cable*1                                                 | ESP22*1                                                      |
 
 3.Project wiring：
 
