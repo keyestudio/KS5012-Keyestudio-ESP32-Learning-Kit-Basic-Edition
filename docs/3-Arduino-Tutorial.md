@@ -3,7 +3,7 @@
 
 ## Download Arduino code and library files
 
-Click on the link to download Arduino code files and library files:[Arduino-Codes-and-Libraries](Arduino-Codes-and-Libraries.zip)
+Click on the link to download Arduino code files and library files: [Arduino-Codes-and-Libraries](Arduino-Codes-and-Libraries.zip)
 
 ## Project 01: Hello World
 
@@ -107,7 +107,7 @@ In this project, we will show you how to light up the LED. We use the ESP32's di
 
 ### 3.Component Knowledge
 
-#### **（1）LED:**
+**（1）LED:**
 
 ![image-20230419113944445](./media/image-20230419113944445-1699410520130-20.png)
 
@@ -115,7 +115,7 @@ The LED is a semiconductor known as “light-emitting diode” , which is an ele
 
 ![](./media/f70404aa49540fd7aecae944c7c01f83-1699410520130-23.jpeg)
 
-#### **（2）Five-band resistor**
+**（2）Five-band resistor**
 
 A resistor is an electronic component in a circuit that restricts or regulates the flow current to flow. On the left is the appearance of the resistor and on the right is the symbol for the resistance in the circuit . Its unit is(Ω). 1 mΩ= 1000 kΩ，1kΩ= 1000Ω.
 
@@ -155,7 +155,7 @@ In the same voltage, there will be less current and more resistance. The connect
 
 Don’t connect a low resistance directly to the two poles of the power supply, which will cause excessive current to damage the electronic components. Resistors do not have positive and negative poles.
 
-#### **（3）Bread board**
+**（3）Bread board**
 
 Breadboards are used to build and test circuits quickly before completing any circuit design. There are many holes in the breadboard that can be inserted into circuit components such as integrated circuits and resistors. A typical breadboard is shown below：
 
@@ -175,7 +175,7 @@ When we connect DIP (Dual In-line Packages) components, such as integrated circu
 
 ![](./media/9b66ae2199e77fbc99b7b278dac0b567-1699410520130-34.png)
 
-#### **（4）Power Supply**
+**（4）Power Supply**
 
 The ESP32 needs 3.3V-5V power supply. In this project, we will connect the ESP32 to the computer via an USB cable.
 
@@ -365,7 +365,7 @@ Breathing light, that is, LED is turned from off to on gradually, and gradually 
 
 ![](./media/6549bdbfd4e7b6b2b341012105d655e8-1699410520130-59.png)
 
-#### **Analog & Digital**
+**Analog & Digital**
 
 An Analog Signal is a continuous signal in both time and value. On the contrary, a digital signal or discrete time signal is a time series consisting of a sequence of quantities. Most signals in life are analog signals. A familiar example of an analog signal would be how the temperature throughout the day continuously changes and could not change instantaneously from 0℃ to 10℃. However, digital signals can instantaneously change in value. This change is expressed in numbers as 1 and 0 (the basis of binary code). Their differences can be seen more easily when compared, as shown below:
 
@@ -373,7 +373,7 @@ An Analog Signal is a continuous signal in both time and value. On the contrary,
 
 In practical application, we often use binary as the digital signal, that is a series of 0’s and 1’s. Since a binary signal only has two values (0 or 1), it has great stability and reliability. Lastly, both analog and digital signals can be converted into each other.
 
-#### **PWM：**
+**PWM：**
 
 PWM, Pulse-Width Modulation, is a very effective method for using digital signals to control analog circuits. Common processors cannot directly output analog signals. PWM technology makes it very convenient to achieve this conversion (translation of digital to analog signals). 
 
@@ -385,7 +385,7 @@ The longer the output of high levels last, the longer the duty cycle and the hig
 
 The longer the PWM duty cycle is, the higher the output power will be. Therefore, we can use PWM to control the brightness of an LED or the speed of DC motor and so on. It is evident from the above that PWM is not real analog, and the effective value of the voltage is equivalent to the corresponding analog. Then we can control the output power of the LED and other output modules to achieve different effects.
 
-#### **ESP32 and PWM:**
+**ESP32 and PWM:**
 
 On ESP32, the LEDC(PWM) controller has 16 separate channels, each of which can independently control frequency, duty cycle, and even accuracy. Unlike traditional PWM pins, the PWM output pins of ESP32 are configurable, with one or more PWM output pins per channel. The relationship between the maximum frequency and bit precision is shown in the following formula, where the maximum value of bit is 31.
 
@@ -1518,7 +1518,7 @@ In this project, we will use ESP32 to control the active buzzer to beep.
 
 ![](./media/11ec5ddc982db9928341e858aab94652-1699410520132-124.png)
 
-#### **Active buzzer:** 
+**Active buzzer:** 
 
 Active buzzer inside has a simple oscillator circuit, which can convert constant direct current into a certain frequency pulse signal. Once active buzzer receives a high level, it will produce sound. 
 
@@ -1530,7 +1530,7 @@ Passive buzzers don't have positive polarity, but active buzzers have. As shown 
 
 ![](./media/0f9825969867ac2d65bb1a19ed0ad2ab-1699410520132-123.png)
 
-#### **Transistor:**
+**Transistor:**
 
 ![](./media/9197d4aff9356c585b7ef68e33a6881d-1699410520132-125.png)
 
@@ -1609,7 +1609,7 @@ In a previous project, we studied an active buzzer, which can only make a sound 
 
 ![](./media/8d0020e53824072cbe9d4f7d2f8acb4f-1699410520132-135.png)
 
-#### **Passive buzzer:** 
+**Passive buzzer:** 
 
 A passive buzzer is an integrated electronic buzzer with no internal vibration source and it has to be driven by 2K-5K square waves, not DC signals. 
 
@@ -1619,7 +1619,7 @@ Passive buzzers cannot distinguish between positive polarity while active buzzer
 
 ![](./media/fc42c5ed014609ff0b290ee5361bb2fd-1699410520132-137.png)
 
-#### **Transistor:** 
+**Transistor:** 
 
 Please refer to Project 12.
 

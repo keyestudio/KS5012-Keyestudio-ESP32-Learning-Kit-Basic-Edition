@@ -1604,7 +1604,7 @@ Optimal operating voltage(module):5.0V
 
 5.Project code：
 
-Codes used in this tutorial are saved in“2. Python Projects”. If you haven't downloaded the code file yet, please click on the link to download it:[Download Python Codes](Python-Codes.zip)
+Codes used in this tutorial are saved in“2. Python Projects”. If you haven't downloaded the code file yet, please click on the link to download it: [Download Python Codes](Python-Codes.zip)
 
 ![](./media/906b7d4391131929a6b0726f7f5bab30-1699415928617-596.png)
 
