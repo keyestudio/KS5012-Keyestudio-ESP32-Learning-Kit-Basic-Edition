@@ -7,7 +7,7 @@ Click on the link to download the Python code file：[Download Python Codes](Pyt
 
 ## Development Environment Configuration
 
-Click on the link to enter the development environment setup tutorial:[Pythin Development Environment Configuration](4-1Python.md)
+Click on the link to enter the development environment setup tutorial: [Pythin Development Environment Configuration](4-1Python.md)
 
 ## Project 01: Hello World
 
