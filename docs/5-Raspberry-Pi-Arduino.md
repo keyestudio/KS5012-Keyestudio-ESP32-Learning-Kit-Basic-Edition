@@ -24,7 +24,7 @@ For ESP32 beginners, we'll start with some simple things. In this project, you j
 
 In this project, we will use a USB cable to connect the ESP32 to Raspberry Pi.
 
-![{67F9F052-9212-4964-831D-56391B65396E}](./media/%7B67F9F052-9212-4964-831D-56391B65396E%7D.png)
+![{67F9F052-9212-4964-831D-56391B65396E}](./media/1699416265282.png)
 
 4. Test Code
 
@@ -177,7 +177,7 @@ When we connect DIP (Dual In-line Packages) components, such as integrated circu
 
 In this project, we connected the ESP32 to the Raspberry Pi by using USB cable.
 
-![{67F9F052-9212-4964-831D-56391B65396E}](./media/%7B67F9F052-9212-4964-831D-56391B65396E%7D-1699416006359-1146.png)
+![{67F9F052-9212-4964-831D-56391B65396E}](./media/1699416006359-1146.png)
 
 4.Wiring diagram：
 
